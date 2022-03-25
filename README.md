@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nbaez2
 - 👀 I’m interested in Robotics Software Engineering
 - 🌱 I’m currently learning Computer Science and programming
-- 💞️ I’m looking to collaborate on Java & Python
+- 💞️ I’m looking to collaborate on Java & Python & importantly C++
 - 📫 How to reach me : nbaez2@gmail.com
 
 <!---
